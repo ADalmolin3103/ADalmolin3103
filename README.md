@@ -2,9 +2,9 @@
 My name is Lucas, and i am a student of Computer Science at FURB, located at Blumenal (SC), in Brazil. Perfectionist when it comes to give effot and time onto a project. A lyrics enjoyer and music addict 🎵 
 
 📖 Learning:
-<div class="center">
+<center>
 <img src="https://symbols.getvecta.com/stencil_25/38_java.bc46b9254c.png" width="3%" height="3%">
-</div>
+</center>
 <!--
 **ADalmolin3103/ADalmolin3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
