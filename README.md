@@ -4,8 +4,8 @@ My name is Lucas, and i am a student of Computer Science at FURB, located at Blu
 📖 Learning:
 <div dir="auto" align="center"><br>
 <img src="https://symbols.getvecta.com/stencil_25/38_java.bc46b9254c.png" width="10%" height="10%">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="10%" height="10%">
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="2.5%" height="2.5%">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="9%" height="9%">
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="4%" height="4%">
 </div>
 <!--
 **ADalmolin3103/ADalmolin3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
