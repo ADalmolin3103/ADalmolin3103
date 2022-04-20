@@ -3,7 +3,7 @@ My name is Lucas, and i am a student of Computer Science at FURB, located at Blu
 
 📖 Learning:
 <div class="center">
-Java <img src="https://cdn-icons-png.flaticon.com/512/121/121152.png">
+Java <img src="https://cdn-icons-png.flaticon.com/512/121/121152.png" width="10%" height="10%">
 </div>
 <!--
 **ADalmolin3103/ADalmolin3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
