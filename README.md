@@ -15,7 +15,7 @@ So now its time to take my knowledge and divide into 2 categories, plus one: lan
 </div>
   
 <div dir="auto" align="center"><br>
-  <img src="ttps://lucaswl.tk/wp-content/uploads/2021/11/Other-python-icon.png" width="10%" height="10%">
+  <img src="ttps://lucaswl.tk/wp-content/uploads/2021/11/Other-python-icon.png">
   <img src="" width="10%" heigh="10%">
 </div>
 <!--
