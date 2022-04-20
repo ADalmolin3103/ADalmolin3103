@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Lucas, and i am a student of Computer Science at FURB, located at Blumenal (SC), in Brazil. Perfectionist when it comes to give effot and time onto a project. A lyrics enjoyer and music addict 🎵 
 
-🔭 I’m currently working on a website to share my knowledge and make friends, inviting people to do the same, its name is <a href="https://lucaswl.tk" target="_blank">Harmony's Archives</a>
+🔭 I’m currently working on a website to share my knowledge and make friends, inviting people to do the same, its name is <a href="https://lucaswl.tk" target=" _blank">Harmony's Archives</a>. Come give it a try! Still in *work in progress though!*
 
 📖 Learning:
 <div dir="auto" align="center"><br>
