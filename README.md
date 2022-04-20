@@ -1,5 +1,10 @@
 ### Hi there 👋
+My name is Lucas, and i am a student of Computer Science at FURB, located at Blumenal (SC), in Brazil. Perfectionist when it comes to give effot and time onto a project. A lyrics enjoyer and music addict 🎵 
 
+📖 Learning:
+<div class="center">
+Java <img src="https://cdn-icons-png.flaticon.com/512/121/121152.png">
+</div>
 <!--
 **ADalmolin3103/ADalmolin3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
