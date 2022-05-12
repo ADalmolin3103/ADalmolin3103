@@ -13,23 +13,29 @@ So now its time to take my knowledge and divide into 2 categories, plus one: lan
 📖 - Learning:
 <div dir="auto" align="center"><br>
   <img src="https://symbols.getvecta.com/stencil_25/38_java.bc46b9254c.png" width="10%" height="10%">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="9%" height="9%"> &nbsp &nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="8%" height="8%">
+  <img src="https://www.clipartmax.com/png/full/243-2432711_azure-sql-database-icon.png" width="10%" height="10%">
 </div>
 
-📕 - Know one thing or two. Will find my way around easily:
+📕- know to a certain extent.
+<div dir="auto" align="center"><br>
+   <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="9%" height="9%"> &nbsp &nbsp
+   <p>Finished a course of basic WP. Can find my way around, maybe need some help, but will get the work done</p>
+</div>
+
+🔰 - Know one thing or two:
 <div dir="auto" align="center"><br>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="10%" height="10%">
   <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="10%" heigh="10%">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="10%" heigh="10%">
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="8%" height="8%">
 </div>
 
 ☝ - Plan to learn:
 
 <div dir="auto" align="center"><br>
-  <img src="https://www.clipartmax.com/png/full/243-2432711_azure-sql-database-icon.png" width="10%" height="10%">
+  
   <img src="https://reliantitcareerschools.com/wp-content/uploads/2020/09/power-bi-icon.jpg" width="10%" heigh="10%">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" width="10%" heigh="10%">
+  <img src="https://w1.pngwing.com/pngs/99/547/png-transparent-cloud-symbol-devops-business-process-software-development-process-software-deployment-information-technology-implementation-cloud-computing.png" width="17%" heigh="17%">
 </div>
 
 ## Academic background
