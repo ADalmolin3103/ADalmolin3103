@@ -35,7 +35,8 @@ So now its time to take my knowledge and divide into 2 categories, plus one: lan
 <div dir="auto" align="center"><br>
   
   <img src="https://reliantitcareerschools.com/wp-content/uploads/2020/09/power-bi-icon.jpg" width="10%" heigh="10%">
-  <img src="https://w1.pngwing.com/pngs/99/547/png-transparent-cloud-symbol-devops-business-process-software-development-process-software-deployment-information-technology-implementation-cloud-computing.png" width="17%" heigh="17%">
+  <img src="https://user-images.githubusercontent.com/78660963/174611045-512e8802-05b3-4c35-89d8-6c7111773c6d.png" width="13%" heigh="13%">
+
 </div>
 
 ## Academic background
