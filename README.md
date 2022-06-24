@@ -2,9 +2,20 @@
 
 My name is, and i am a student of Computer Science at FURB, located at Blumenal (SC), in Brazil. Perfectionist when it comes to give effot and time onto a project. A lyrics enjoyer and music addict 🎵 
 
-🔭 I’m currently working on a website to share my knowledge and make friends, inviting people to do the same, its name is <a href="https://lucaswl.tk" target=" _blank"> Harmony's Archives </a>. Come give it a try! Still in *work in progress though!*
 
-I'm also developing a calculator for Computer Architecture class (Just for the challenge, no grades and class involved, just sheer will of me wanting to improove). Will share more as i develop it.
+<!-- GitHub Stats -->
+<!-- Link: (https://github.com/anuraghazra/github-readme-stats)-->
+<!-- outros links uteis: https://dev.to/envoy_/150-badges-for-github-pnk#contents
+                      https://badgen.net/-->
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADalmolin3103&layout=compact&theme=jolly" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADalmolin3103&count_private=true&show_icons=true&theme=jolly">
+</a>                                                                                                                  
+</div>
 
 ## Intelectual domains:
 
