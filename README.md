@@ -9,12 +9,13 @@ My name is, and i am a student of Computer Science at FURB, located at Blumenal 
                       https://badgen.net/-->
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADalmolin3103&layout=compact&theme=jolly" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADalmolin3103&count_private=true&show_icons=true&theme=jolly">
-</a>                                                                                                                  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADalmolin3103&layout=compact&theme=jolly" />  
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADalmolin3103&count_private=true&show_icons=true&theme=jolly">
+  </a>                                                                                                                  
 </div>
 
 ## Intelectual domains:
