@@ -8,7 +8,7 @@ My name is, and i am a student of Computer Science at FURB, located at Blumenal 
 <!-- outros links uteis: https://dev.to/envoy_/150-badges-for-github-pnk#contents
                       https://badgen.net/-->
 
-<div align="center">
+<div >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADalmolin3103&layout=compact&theme=jolly" />  
   </a>
