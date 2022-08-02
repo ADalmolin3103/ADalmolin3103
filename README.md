@@ -10,7 +10,7 @@ My name is, and i am a student of Computer Science at FURB, located at Blumenal 
 
 <div align="center">
   <a align = "center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADalmolin3103&layout=compact&theme=jolly" width="70%" height=auto />  
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADalmolin3103&layout=compact&theme=jolly" width="150" height=auto />  
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADalmolin3103&count_private=true&show_icons=true&theme=jolly">
