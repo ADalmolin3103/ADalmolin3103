@@ -63,6 +63,6 @@ So now its time to take my knowledge and divide into 2 categories, plus one: lan
 
 I am open for job interviews and social projects! Not only that, if you want to reach me, you can contact me via what follows:
   - e-mail: lotheadric@gmail.com
-  - Discord: Harmony#6329
+  - Discord: Harmony#0420
  
  🔰 Fun fact: i watch My Little Pony. Lets just get over this.
