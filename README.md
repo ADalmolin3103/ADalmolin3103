@@ -1,3 +1,10 @@
+<!--TODO:
+1) Gif de um pony estudando
+2) Logo
+3) Descrição de coisas que estou estudando de idioma até programação
+4) Criar projetos
+-->
+
 ## About me:
 
 My name is Lucas, and i am a student of Computer Science at FURB, located at Blumenal (SC), in Brazil. Learned to turn resentment and hurt into a unquenchable thirst.
@@ -7,7 +14,6 @@ My name is Lucas, and i am a student of Computer Science at FURB, located at Blu
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADalmolin3103&count_private=true&show_icons=true&theme=jolly" width="400" height=auto>
   </a>                                                                                                                  
 </div>
-
 
 ## Academic background
 
